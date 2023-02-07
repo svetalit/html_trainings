@@ -1,0 +1,24 @@
+
+/* Селектор - tag */
+body {
+    padding-top: 20px;
+    padding-right: 50px;
+    padding-bottom: 40px;
+    padding-left: 50px;
+
+    /* То же самое */
+    /* padding: 20px 50px 40px 50px; */ 
+}
+
+/* Селектор - class */
+.mdn_link { 
+    margin: 0 auto;
+    padding: 30px 40px;
+    border: 3px solid rgb(110, 110, 110);
+    border-radius: 10px;
+    font-size: 30px;
+    font-weight: 600;
+    display: block;
+    max-width: 250px;
+    background-color: aquamarine;
+}
